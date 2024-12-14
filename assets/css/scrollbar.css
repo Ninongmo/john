@@ -1,0 +1,12 @@
+.preview-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+.preview-list::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 4px;
+}
+
+.preview-list::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}
